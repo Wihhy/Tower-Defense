@@ -1,6 +1,3 @@
-//
-// Created by andre on 04.05.2025.
-//
 #pragma once
 #include <vector>
 #include "SFML/Graphics/CircleShape.hpp"
